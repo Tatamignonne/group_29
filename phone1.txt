@@ -2,3 +2,5 @@
 2. iphone7
 3. samsung
 
+4. [iaomi p20[D[D[D[D[D[D[D[D[[C[C[C[C[C[Cxiaomi 20
+git commit -am "add hiaomi"
